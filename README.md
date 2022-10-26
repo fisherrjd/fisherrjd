@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/fisherrjd)
 
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=jpetrucciani&theme=github"/>
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=fisherrjd&theme=github"/>
 </div>
