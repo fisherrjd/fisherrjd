@@ -36,11 +36,7 @@ Here are some ideas to get you started:
 <
 ## &#x1f4c8; GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/fisherrjd?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FDenver)
-
-<a href="https://github.com/fisherrjd">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jpetrucciani&show_icons=true&line_height=27&count_private=true&theme=radical" alt="jacobi's GitHub Stats" />
-</a>
+![Metrics](https://metrics.lecoq.io/fisherrjd)
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=jpetrucciani&theme=github"/>
