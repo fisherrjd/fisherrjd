@@ -1,16 +1,11 @@
-[![jacobi's github banner](./assets/header.png)](https://cobi.dev)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jpetrucciani)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/__jacobi)
-[![Keybase PGP](https://img.shields.io/keybase/pgp/jacobi?style=flat-square&logo=keybase)](https://keybase.io/jacobi)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jpetrucciani.jpetrucciani)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jfisher97)
 
 ## 🧙 Hi there ✨
 
 Welcome to my GitHub profile!
 
 <!--
-**jpetrucciani/jpetrucciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fisherrjd/fisherrjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
