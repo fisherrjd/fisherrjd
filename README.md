@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-### other
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
 <!-- ### SaaS
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
