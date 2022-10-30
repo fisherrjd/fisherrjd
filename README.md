@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Microsoft&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux) 
-<
+
 ## &#x1f4c8; GitHub Stats
 
 ![Metrics](https://metrics.lecoq.io/fisherrjd)
