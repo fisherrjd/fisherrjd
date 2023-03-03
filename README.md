@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Nix](https://img.shields.io/badge/-Nix-black?style=flat-square&logo=nixos)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
