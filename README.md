@@ -36,8 +36,3 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/fisherrjd)
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=fisherrjd&theme=github"/>
-</div>
