@@ -1,8 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jfisher97)
 
-## 🧙 Hi there ✨
-
-Welcome to my GitHub profile!
 
 <!--
 **fisherrjd/fisherrjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
