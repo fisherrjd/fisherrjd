@@ -6,7 +6,7 @@ Currently I am a Java Developer at Charter communications working on the interna
 
 [/fisherrjd/osrsFlipFinder](https://github.com/fisherrjd/osrsFlipFinder)
 
-[/fisherrjd/PyTTs](https://github.com/fisherrjd/PyTTs)
+[/fisherrjd/PyTTs](https://github.com/fisherrjd/StockMeme)
 
 ## Archived Projects
 
