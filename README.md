@@ -1,6 +1,5 @@
 ## About Me
-
-Currently I am a Java Developer at Charter communications working on the internal directive and authentication services for most applications at Charter
+Doing the codes
 
 ## Active Projects
 
