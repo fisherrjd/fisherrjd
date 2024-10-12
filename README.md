@@ -3,7 +3,7 @@ Doing the codes
 
 ## Active Projects
 
-[/fisherrjd/todo_list](https://github.com/fisherrjd/rust_playground/tree/main/todo_app)
+[/fisherrjd/FinanceApp](https://github.com/fisherrjd/quickstart)
 
 
 ## Archived Projects
