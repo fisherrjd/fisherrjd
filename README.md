@@ -14,6 +14,6 @@ A Discord bot that helps OSRS players track profitable item flips.
 
 ## 📊 GitHub Stats  
 
-![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisherrjd&show_icons=true&theme=radical)  
+![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisherrjd&show_icons=true&theme=dracula)  
 
 💻 Always building. Always learning.  
