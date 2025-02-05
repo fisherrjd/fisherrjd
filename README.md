@@ -6,7 +6,7 @@ Welcome to my GitHub! Here, you'll find my active projects, experiments, and ran
 
 ## 🚀 Active Projects  
 
-### 🔹 [Nix Operating System](https://jade.rip/nix)  
+### ❄️ [Nix Operating System](https://jade.rip/nix)  
 A custom Nix-based OS setup for efficiency, customization, and speed.  
 
 ### 🤖 [Discord Bot – OSRS Flip Finder](https://github.com/fisherrjd/osrsFlipFinder)  
