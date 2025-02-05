@@ -3,7 +3,6 @@
 
 Welcome to my GitHub! Here, you'll find my active projects, experiments, and random bits of code.  
 
----
 
 ## 🚀 Active Projects  
 
@@ -13,7 +12,6 @@ A custom Nix-based OS setup for efficiency, customization, and speed.
 ### 🤖 [Discord Bot – OSRS Flip Finder](https://github.com/fisherrjd/osrsFlipFinder)  
 A Discord bot that helps OSRS players track profitable item flips.  
 
----
 
 ## 🎯 Goals  
 
@@ -22,7 +20,6 @@ A Discord bot that helps OSRS players track profitable item flips.
 - 🎓 Keep learning and experimenting with new tech
 - 👋🏻 Get more involved in the coding communities
 
----
 
 ## 📊 GitHub Stats  
 
