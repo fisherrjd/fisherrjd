@@ -17,8 +17,6 @@ My objective is to implement a webapp that will generate daily meals / snacks ba
 my daily macros but with the understanding that I want to grocery shop once a week.
 - Backend 
   - Python
-  - litellm proxy
-  - Integration with google calender API
 - Frontend
   - Dixous (Rust -> WASM framework)
 
