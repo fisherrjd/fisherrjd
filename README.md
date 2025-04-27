@@ -13,7 +13,8 @@ A custom Nix-based OS setup for efficiency, customization, and speed.
 A Discord bot that helps OSRS players track profitable item flips.  
 
 ### 🥪 [MealMaker 9000](https://github.com/fisherrjd/MealMaker9000)
-Building a fullstack application
+My objective is to implement a webapp that will generate daily meals / snacks based off <br>
+my daily macros but with the understanding that I want to grocery shop once a week.
 - Backend 
   - Python
   - litellm proxy
