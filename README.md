@@ -1,5 +1,5 @@
 # Hi, I'm Jade! 👋  
-> **Doing the codes.**  
+> **Leaning Daily.**  
 
 Welcome to my GitHub! Here, below you'll find my active projects explore to find my experiments, and random bits of code.  
 
