@@ -18,7 +18,7 @@ my daily macros but with the understanding that I want to grocery shop once a we
 - Backend 
   - Python
 - Frontend
-  - Dixous (Rust -> WASM framework)
+  - TBD
 
 ## 📊 GitHub Stats  
 
