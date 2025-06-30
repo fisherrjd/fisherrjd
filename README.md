@@ -1,25 +1,33 @@
 # Hi, I'm Jade! 👋  
-> **Leaning Daily.**  
+> **Learning every day. Building most days.**
 
-Welcome to my GitHub! Here, below you'll find my active projects explore to find my experiments, and random bits of code.  
+Welcome to my GitHub — a collection of tools, bots, and backend systems I'm tinkering with or actively developing.  
+Feel free to explore my projects below, from game analytics to meal planning APIs — all built with practicality and scalability in mind.
 
+---
 
 ## 🚀 Active Projects  
 
-### ❄️ [Nix Operating System](https://jade.rip/nix)  
-A custom Nix-based OS setup for efficiency, customization, and speed.  
+### ❄️ [Nix Operating System](https://jade.rip/nix )  
+A custom Nix-based OS setup focused on efficiency, customization, and performance. Built to streamline development workflows and daily use.
 
-### 🤖 [Discord Bot – OSRS Flip Finder](https://github.com/fisherrjd/osrsFlipFinder)  
-A Discord bot that helps OSRS players track profitable item flips.  
+### 🤖 [Discord Bot – OSRS Flip Finder](https://github.com/fisherrjd/osrsFlipFinder )  
+A Discord bot that helps Old School RuneScape players identify profitable item flips using real-time market data.  
+- Real-time price tracking  
+- Advanced filtering & analytics  
+- No-loss pricing calculator  
+- Planned: CI/CD pipeline and expanded command set  
 
-### 🥪 [MealMaker 9000](https://github.com/fisherrjd/MealMaker9000)
-My objective is to implement a webapp that will generate daily meals / snacks based off <br>
-my daily macros but with the understanding that I want to grocery shop once a week.
-- Backend 
-  - Python
+### 🥪 [Shared Lists](https://github.com/fisherrjd/lists-backend )  
+A RESTful API for managing collaborative lists (think grocery, to-do, or shared shopping lists), built with FastAPI.  
+- Secure JWT authentication + planned Google OAuth  
+- Create, share, and manage lists across users  
+- Backend: Python 3.13, FastAPI, and PostgreSQL  
+
+---
 
 ## 📊 GitHub Stats  
 
-![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisherrjd&show_icons=true&theme=dracula)  
+![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisherrjd&show_icons=true&theme=dracula&include_all_commits=true)
 
-💻 Always building. Always learning.  
+💻 Always building. Always learning.
