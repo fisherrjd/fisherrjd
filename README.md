@@ -18,7 +18,7 @@ A Discord bot that helps Old School RuneScape players identify profitable item f
 - No-loss pricing calculator  
 - Planned: CI/CD pipeline and expanded command set  
 
-### 📋 [Shared Lists](https://github.com/fisherrjd/lists-backend )  
+### 📋 [Shared Lists Backend](https://github.com/fisherrjd/lists-backend )  
 A RESTful API for managing collaborative lists (think grocery, to-do, or shared shopping lists), built with FastAPI.  
 - Secure JWT authentication + planned Google OAuth  
 - Create, share, and manage lists across users  
