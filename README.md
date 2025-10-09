@@ -8,7 +8,7 @@ Feel free to explore my projects below, from game analytics to meal planning API
 
 ## 🚀 Active Projects  
 
-### ❄️ [Nix Operating System](https://jade.rip/nix )  
+### ❄️ [Nix Operating System](https://github.com/fisherrjd/nix)  
 A custom Nix-based OS setup focused on efficiency, customization, and performance. Built to streamline development workflows and daily use.
 
 ### 🤖 [Discord Bot – OSRS Flip Finder](https://github.com/fisherrjd/osrsFlipFinder )  
