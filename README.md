@@ -18,11 +18,12 @@ A Discord bot that helps Old School RuneScape players identify profitable item f
 - No-loss pricing calculator  
 - Planned: CI/CD pipeline and expanded command set  
 
-### 📋 [Shared Lists Backend](https://github.com/fisherrjd/lists-backend )  
-A RESTful API for managing collaborative lists (think grocery, to-do, or shared shopping lists), built with FastAPI.  
-- Secure JWT authentication + planned Google OAuth  
-- Create, share, and manage lists across users  
-- Backend: Python 3.13, FastAPI, and PostgreSQL  
+### 🌐 [Bifrost](https://github.com/fisherrjd/Bifrost)
+This is an auth gateway I built to put in front of my internal network.  I wanted to re-create something I am very familiar with a LOT of Ai usage.  I defined requirements and had the Ai Implement them! 
+- Java 21
+- Spring Boot 3.2
+- Postgresql
+- Ai pair programming
 
 ---
 
