@@ -1,4 +1,5 @@
 # Hi, I'm Jade! 👋  
+
 > **Learning every day. Building most days.**
 
 Welcome to my GitHub — a collection of tools, bots, and backend systems I'm tinkering with or actively developing.  
@@ -11,12 +12,14 @@ Feel free to explore my projects below, from game analytics to meal planning API
 ### ❄️ [Nix Operating System](https://github.com/fisherrjd/nix)  
 A custom Nix-based OS setup focused on efficiency, customization, and performance. Built to streamline development workflows and daily use.
 
-### 🎉 [PartyTime Plugin](https://github.com/fisherrjd/PartyTime)  
-### 🖥️ [PartyTime Server](https://github.com/fisherrjd/PartyTime-Server)  
-A custom OSRS plugin to detect drop parties
+### 🎉 PartyTime — OSRS Drop Party Detection
+A custom OSRS plugin to detect drop parties, with server-side coordination.
+- **[Plugin](https://github.com/fisherrjd/PartyTime)** 🔌
+- **[Server](https://github.com/fisherrjd/PartyTime-Server)** 🖥️
 
 ### ⚒️ [Forge](https://github.com/fisherrjd/forge)  
-A CLI tool to manage maven dependencies, and possibly other maven features! 
+A CLI tool to manage Maven dependencies, and possibly other Maven features!
+
 ---
 
 ## 📊 GitHub Stats  
