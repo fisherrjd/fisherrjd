@@ -19,6 +19,3 @@ A custom OSRS plugin to detect drop parties, with server-side coordination.
 
 ### ⚒️ [Forge](https://github.com/fisherrjd/forge)  
 A CLI tool to manage Maven dependencies, and possibly other Maven features!
-
----
-💻 Always building. Always learning.
