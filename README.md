@@ -11,6 +11,11 @@ Feel free to explore my projects below, from game analytics to meal planning API
 ### ❄️ [Nix Operating System](https://github.com/fisherrjd/nix)  
 A custom Nix-based OS setup focused on efficiency, customization, and performance. Built to streamline development workflows and daily use.
 
+### 🎉 [PartyTime Plugin](https://github.com/fisherrjd/PartyTime)  
+### 🖥️ [PartyTime Server](https://github.com/fisherrjd/PartyTime-Server)  
+
+### ⚒️ [Forge](https://github.com/fisherrjd/forge)  
+
 ---
 
 ## 📊 GitHub Stats  
