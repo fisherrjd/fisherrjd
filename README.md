@@ -21,9 +21,4 @@ A custom OSRS plugin to detect drop parties, with server-side coordination.
 A CLI tool to manage Maven dependencies, and possibly other Maven features!
 
 ---
-
-## 📊 GitHub Stats  
-
-![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisherrjd&show_icons=true&theme=dracula&include_all_commits=true)
-
 💻 Always building. Always learning.
