@@ -12,6 +12,10 @@ Feel free to explore my projects below, from game analytics to meal planning API
 ### ❄️ [Nix Operating System](https://github.com/fisherrjd/nix)  
 A custom Nix-based OS setup focused on efficiency, customization, and performance. Built to streamline development workflows and daily use.
 
+### 📈 Varlamore Terminal — OSRS's Bloomberg Terminal
+A custom OSRS interface for all things ge!!!
+- **[Application](https://github.com/fisherrjd/osrs_ge)** 🔌
+
 ### 🎉 PartyTime — OSRS Drop Party Detection
 A custom OSRS plugin to detect drop parties, with server-side coordination.
 - **[Plugin](https://github.com/fisherrjd/PartyTime)** 🔌
