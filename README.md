@@ -18,5 +18,7 @@ A custom OSRS interface for all things ge!!!
 ### 📋 Skribbl — Meeting Transcripts + Notes 
 My personal Custom implementaiton for gathering meeting transcripts and generating content from them!
 - **[Skribbl-Capture](https://github.com/fisherrjd/skribbl-capture)** 🎧
+  - Lightweight recording application for capturing microphone + system audio
 - **[Skribbl](https://github.com/fisherrjd/Skribbl)** ✍️
+  - STT Application converting WAV -> Meeting Transcripts
 
