@@ -15,10 +15,8 @@ A custom Nix-based OS setup focused on efficiency, customization, and performanc
 ### 📈 [Varlamore Terminal](https://github.com/fisherrjd/osrs_ge) — OSRS's Bloomberg Terminal
 A custom OSRS interface for all things ge!!!
 
-### 🎉 PartyTime — OSRS Drop Party Detection
-A custom OSRS plugin to detect drop parties, with server-side coordination.
-- **[Plugin](https://github.com/fisherrjd/PartyTime)** 🔌
-- **[Server](https://github.com/fisherrjd/PartyTime-Server)** 🖥️
+### 📋 Skribbl — Meeting Transcripts + Notes 
+My personal Custom implementaiton for gathering meeting transcripts and generating content from them!
+- **[Skribbl-Capture](https://github.com/fisherrjd/skribbl-capture)** 🎧
+- **[Skribbl](https://github.com/fisherrjd/Skribbl)** ✍️
 
-### ⚒️ [Forge](https://github.com/fisherrjd/forge)  
-A CLI tool to manage Maven dependencies, and possibly other Maven features!
