@@ -12,4 +12,8 @@ Feel free to explore my projects below, from game analytics to meal planning API
 ### ❄️ [Nix Operating System](https://github.com/fisherrjd/nix)  
 A custom Nix-based OS setup focused on efficiency, customization, and performance. Built to streamline development workflows and daily use.
 
-### 📈 OSRS Grand Exchange Research 
+### 📈 [OSRS Grand Exchange Research](https://github.com/orgs/OldSchool-Market-Research/repositories) 
+Ai Evaluation loop for making money on the grand exchange
+
+### ⛳️ [Plink](https://github.com/fisherrjd/plink)   
+2D mini golf game 
